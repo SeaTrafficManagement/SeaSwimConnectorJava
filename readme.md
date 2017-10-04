@@ -25,7 +25,7 @@ cd..
 ```
 ## how the SSC work
 
-![dsad](examples/imgs/ssc_architecture_interaction.png)
+![ssc_deploy](examples/imgs/ssc_architecture_interaction.png)
 
 Ssc is a software service component that works like: 
 * Proxy web server: 
